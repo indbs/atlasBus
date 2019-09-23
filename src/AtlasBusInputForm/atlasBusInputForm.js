@@ -89,8 +89,8 @@ export class AtlasBusInputForm extends React.Component{
               <DropDSelection form_name={'section'}         form_cyrName={'Раздел'}           onChange={handleChange}   touched={touched.section}           items={section}/>
 
               <SubmitButton disabled={isSubmitting} errors={errors}/>
-              {status && status.Status && status.Status !== 'OK'&&
-                <div className={'alert alert-danger'}>{status}</div>
+              {status && status.Status && status.Status === 'NG'&&
+                <div className={'alert alert-danger'}>{status.Message}</div>
               }
               {status && status.Status && status.Status === 'OK'&&
                 <div className={'alert alert-success'}><a href={status.Link} class="alert-link">Проверить запись</a></div>
