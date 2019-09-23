@@ -8,3 +8,5 @@ PHP часть в папке src/PHP
 mySQL часть в папке src/mySQL
 
 PHP и mySQL запущены на http://94.140.216.17:8889
+
+Тест https://indbs.github.io/atlasBus
