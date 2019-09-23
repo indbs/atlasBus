@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/atlasBus/static/css/main.e0968aaf.chunk.css",
+    "main.js": "/atlasBus/static/js/main.acb94e5b.chunk.js",
+    "main.js.map": "/atlasBus/static/js/main.acb94e5b.chunk.js.map",
+    "runtime~main.js": "/atlasBus/static/js/runtime~main.dc544b00.js",
+    "runtime~main.js.map": "/atlasBus/static/js/runtime~main.dc544b00.js.map",
+    "static/css/2.e734d5b2.chunk.css": "/atlasBus/static/css/2.e734d5b2.chunk.css",
+    "static/js/2.bf8193e0.chunk.js": "/atlasBus/static/js/2.bf8193e0.chunk.js",
+    "static/js/2.bf8193e0.chunk.js.map": "/atlasBus/static/js/2.bf8193e0.chunk.js.map",
+    "index.html": "/atlasBus/index.html",
+    "precache-manifest.2821665d573c1f96133e2e3ba3070f32.js": "/atlasBus/precache-manifest.2821665d573c1f96133e2e3ba3070f32.js",
+    "service-worker.js": "/atlasBus/service-worker.js",
+    "static/css/2.e734d5b2.chunk.css.map": "/atlasBus/static/css/2.e734d5b2.chunk.css.map",
+    "static/css/main.e0968aaf.chunk.css.map": "/atlasBus/static/css/main.e0968aaf.chunk.css.map"
+  }
+}
