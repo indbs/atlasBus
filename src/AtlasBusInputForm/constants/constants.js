@@ -1,8 +1,8 @@
 export const docType = {
-    pasp_rus:                   'Паспорт РФ',
-    pasp_by:                    'Паспорт РБ',
-    cert_of_birth_ru:           'Свидетельство о рождении РФ',
-    cert_of_birth_by:           'Свидетельство о рождении РБ'
+    PASSP_RU            :'Паспорт РФ',
+    PASSP_BY            :'Паспорт РБ',
+    CERT_OB_RU          :'Свидетельство о рождении РФ',
+    CERT_OB_BY          :'Свидетельство о рождении РБ'
 }
 
 export function docTypeArr(docType={}) {
@@ -10,3 +10,14 @@ export function docTypeArr(docType={}) {
     for(var item in docType) {docTypeArr.push(docType[item])}
     return docTypeArr;
 }
+
+export const sex = [
+    'М',
+    'Ж'
+]
+
+export const section = [
+    'А',
+    'Б',
+    'В'
+]

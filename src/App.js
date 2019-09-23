@@ -5,9 +5,9 @@ import AtlasBusInputForm        from './AtlasBusInputForm/atlasBusInputForm.js'
 function App() {
   return (
     <div className="App">
-      <atlasBody className="BodyAtlasBus">
+      <div id='bodyAtlas' className="BodyAtlasBus">
         <AtlasBusInputForm/>
-      </atlasBody>
+      </div>
     </div>
   );
 }
